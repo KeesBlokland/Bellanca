@@ -1,5 +1,8 @@
 # Bellanca
-These files are basically what Kailee created, just cleaned them up for FreeCAD. Since I rebuild my router (hardware is a StepFour) to get rid of all the windows stuff, and I would like to start using FreeCad in ernest, this project will do just fine to teach me ;-)
+These files are basically what Kai created, just cleaned them up for FreeCAD. 
+I imported the Step files, but for reasons unclear, there appear to be multiple copies of everything. So, just removed all the extra stuff, so that I have a normal working set. 
+
+Since I rebuild my router (hardware is a StepFour) to get rid of all the windows stuff, and I would like to start using FreeCad in ernest, this project will do just fine to teach me ;-)
 
 Source: https://github.com/Kailee71
 
